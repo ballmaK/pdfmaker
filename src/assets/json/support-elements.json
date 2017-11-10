@@ -1,0 +1,38 @@
+[
+  {
+    "label": "TEXT",
+    "icon": "title",
+    "type": "pm_text",
+    "help": ""
+  },
+  {
+    "label": "TABLE",
+    "icon": "border_all",
+    "type": "pm_table",
+    "help": ""
+  },
+  {
+    "label": "LIST",
+    "icon": "list",
+    "type": "pm_list",
+    "help": ""
+  },
+  {
+    "label": "COLUMN",
+    "icon": "view_column",
+    "type": "pm_column",
+    "help": ""
+  },
+  {
+    "label": "IMAGE",
+    "icon": "photo",
+    "type": "pm_image",
+    "help": ""
+  },
+  {
+    "label": "CHART",
+    "icon": "insert_chart",
+    "type": "pm_chart",
+    "help": ""
+  }
+]
